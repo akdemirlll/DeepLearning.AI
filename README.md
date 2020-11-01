@@ -1,2 +1,2 @@
 # DeepLearning.AI
-This repo contains notebooks from Neural Networks and Deep Learning course from Coursera
+This repo contains notebooks from Deep Learning Specialization (5 course) from Coursera
